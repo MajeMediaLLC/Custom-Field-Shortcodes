@@ -21,6 +21,6 @@ Github project: https://github.com/majemedia/Custom-Field-Shortcodes
 
 ## Changelog
 
-= 1.0:
+### 1.0:
 * Created plugin
 
